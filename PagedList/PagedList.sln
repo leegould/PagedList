@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedList", "PagedList\PagedList.csproj", "{0FEE32D0-CAC0-44F2-8FC8-8AC3DD3CC7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedList.Test", "PagedList.Test\PagedList.Test.csproj", "{1DD32A1D-180A-4F9A-B301-8E09BD39D584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEE32D0-CAC0-44F2-8FC8-8AC3DD3CC7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEE32D0-CAC0-44F2-8FC8-8AC3DD3CC7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEE32D0-CAC0-44F2-8FC8-8AC3DD3CC7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEE32D0-CAC0-44F2-8FC8-8AC3DD3CC7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD32A1D-180A-4F9A-B301-8E09BD39D584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD32A1D-180A-4F9A-B301-8E09BD39D584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD32A1D-180A-4F9A-B301-8E09BD39D584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD32A1D-180A-4F9A-B301-8E09BD39D584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
